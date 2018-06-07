@@ -1,12 +1,16 @@
-from Ubiquity.Unifi_API import Unifi
+from ubiquiti.unifi import API as Unifi_API
 import json
 
-r = Unifi(username="ubnt", password="ubnt", baseurl="https://unifi:8443")
 
-r.login()
+# Example with context manager
+with Unifi_API(username="admin ", password="ubnt", baseurl="https://unifi:8443", verify_ssl=True) as api:
+    device_list = (api.list_clients(filters={'hostname': 'Chromecast.*'}, order_by="ip"))
+    print(json.dumps(device_list, indent=4))
 
-device_list = (r.list_sta( filters={"hostname": "Chromecast\-Ultra", "ip" : "192\.168\.0\.\d+"}, order_by="ip"))
 
+# Example without contextmanager
+api = Unifi_API(username="ubnt", password="ubnt", baseurl="https://unifi:8443", verify_ssl=True)
+api.login()
+device_list = (api.list_clients(order_by="ip"))
 print(json.dumps(device_list, indent=4))
-
-r.logout()
+api.logout()

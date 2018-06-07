@@ -1,9 +1,10 @@
 # Unifi-Python-API
 Conversion of the Unifi Shell API to python3 using Requests and Re
 
-Requirements:
+#### Requirements:
 - Python 3.6
-- Requests >= 2.18.4
+- requests >= 2.18.4
+- typing >= 3.6.4
 
 ## Aim
 Deliver a "lightweight" easy to understand python api for the Unifi controller.  
