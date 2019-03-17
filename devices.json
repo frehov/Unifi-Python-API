@@ -1,0 +1,312 @@
+[
+    {
+        "Device Code": "BZ2",
+        "Device Name": "UniFi AP",
+        "Device Type": "uap"
+    },
+    {
+        "Device Code": "BZ2LR",
+        "Device Name": "UniFi AP-LR",
+        "Device Type": "uap"
+    },
+    {
+        "Device Code": "U2HSR",
+        "Device Name": "UniFi AP-Outdoor+",
+        "Device Type": "uap"
+    },
+    {
+        "Device Code": "U2IW",
+        "Device Name": "UniFi AP-In Wall",
+        "Device Type": "uap"
+    },
+    {
+        "Device Code": "U2L48",
+        "Device Name": "UniFi AP-LR",
+        "Device Type": "uap"
+    },
+    {
+        "Device Code": "U2Lv2",
+        "Device Name": "UniFi AP-LR v2",
+        "Device Type": "uap"
+    },
+    {
+        "Device Code": "U2M",
+        "Device Name": "UniFi AP-Mini",
+        "Device Type": "uap"
+    },
+    {
+        "Device Code": "U2O",
+        "Device Name": "UniFi AP-Outdoor",
+        "Device Type": "uap"
+    },
+    {
+        "Device Code": "U2S48",
+        "Device Name": "UniFi AP",
+        "Device Type": "uap"
+    },
+    {
+        "Device Code": "U2Sv2",
+        "Device Name": "UniFi AP v2",
+        "Device Type": "uap"
+    },
+    {
+        "Device Code": "U5O",
+        "Device Name": "UniFi AP-Outdoor 5G",
+        "Device Type": "uap"
+    },
+    {
+        "Device Code": "U7E",
+        "Device Name": "UniFi AP-AC",
+        "Device Type": "uap"
+    },
+    {
+        "Device Code": "U7EDU",
+        "Device Name": "UniFi AP-AC-EDU",
+        "Device Type": "uap"
+    },
+    {
+        "Device Code": "U7Ev2",
+        "Device Name": "UniFi AP-AC v2",
+        "Device Type": "uap"
+    },
+    {
+        "Device Code": "U7HD",
+        "Device Name": "UniFi AP-HD",
+        "Device Type": "uap"
+    },
+    {
+        "Device Code": "U7SHD",
+        "Device Name": "UniFi AP-SHD",
+        "Device Type": "uap"
+    },
+    {
+        "Device Code": "U7NHD",
+        "Device Name": "UniFi AP-nanoHD",
+        "Device Type": "uap"
+    },
+    {
+        "Device Code": "UCXG",
+        "Device Name": "UniFi AP-XG",
+        "Device Type": "uap"
+    },
+    {
+        "Device Code": "UXSDM",
+        "Device Name": "UniFi AP-BaseStationXG",
+        "Device Type": "uap"
+    },
+    {
+        "Device Code": "UCMSH",
+        "Device Name": "UniFi AP-MeshXG",
+        "Device Type": "uap"
+    },
+    {
+        "Device Code": "U7IW",
+        "Device Name": "UniFi AP-AC-In Wall",
+        "Device Type": "uap"
+    },
+    {
+        "Device Code": "U7IWP",
+        "Device Name": "UniFi AP-AC-In Wall Pro",
+        "Device Type": "uap"
+    },
+    {
+        "Device Code": "U7MP",
+        "Device Name": "UniFi AP-AC-Mesh-Pro",
+        "Device Type": "uap"
+    },
+    {
+        "Device Code": "U7LR",
+        "Device Name": "UniFi AP-AC-LR",
+        "Device Type": "uap"
+    },
+    {
+        "Device Code": "U7LT",
+        "Device Name": "UniFi AP-AC-Lite",
+        "Device Type": "uap"
+    },
+    {
+        "Device Code": "U7O",
+        "Device Name": "UniFi AP-AC Outdoor",
+        "Device Type": "uap"
+    },
+    {
+        "Device Code": "U7P",
+        "Device Name": "UniFi AP-Pro",
+        "Device Type": "uap"
+    },
+    {
+        "Device Code": "U7MSH",
+        "Device Name": "UniFi AP-AC-Mesh",
+        "Device Type": "uap"
+    },
+    {
+        "Device Code": "U7PG2",
+        "Device Name": "UniFi AP-AC-Pro",
+        "Device Type": "uap"
+    },
+    {
+        "Device Code": "p2N",
+        "Device Name": "PicoStation M2",
+        "Device Type": "uap"
+    },
+    {
+        "Device Code": "US8",
+        "Device Name": "UniFi Switch 8",
+        "Device Type": "usw"
+    },
+    {
+        "Device Code": "US8P60",
+        "Device Name": "UniFi Switch 8 POE-60W",
+        "Device Type": "usw"
+    },
+    {
+        "Device Code": "US8P150",
+        "Device Name": "UniFi Switch 8 POE-150W",
+        "Device Type": "usw"
+    },
+    {
+        "Device Code": "S28150",
+        "Device Name": "UniFi Switch 8 AT-150W",
+        "Device Type": "usw"
+    },
+    {
+        "Device Code": "USC8",
+        "Device Name": "UniFi Switch 8",
+        "Device Type": "usw"
+    },
+    {
+        "Device Code": "US16P150",
+        "Device Name": "UniFi Switch 16 POE-150W",
+        "Device Type": "usw"
+    },
+    {
+        "Device Code": "S216150",
+        "Device Name": "UniFi Switch 16 AT-150W",
+        "Device Type": "usw"
+    },
+    {
+        "Device Code": "US24",
+        "Device Name": "UniFi Switch 24",
+        "Device Type": "usw"
+    },
+    {
+        "Device Code": "US24P250",
+        "Device Name": "UniFi Switch 24 POE-250W",
+        "Device Type": "usw"
+    },
+    {
+        "Device Code": "US24PL2",
+        "Device Name": "UniFi Switch 24 L2 POE",
+        "Device Type": "usw"
+    },
+    {
+        "Device Code": "US24P500",
+        "Device Name": "UniFi Switch 24 POE-500W",
+        "Device Type": "usw"
+    },
+    {
+        "Device Code": "S224250",
+        "Device Name": "UniFi Switch 24 AT-250W",
+        "Device Type": "usw"
+    },
+    {
+        "Device Code": "S224500",
+        "Device Name": "UniFi Switch 24 AT-500W",
+        "Device Type": "usw"
+    },
+    {
+        "Device Code": "US48",
+        "Device Name": "UniFi Switch 48",
+        "Device Type": "usw"
+    },
+    {
+        "Device Code": "US48P500",
+        "Device Name": "UniFi Switch 48 POE-500W",
+        "Device Type": "usw"
+    },
+    {
+        "Device Code": "US48PL2",
+        "Device Name": "UniFi Switch 48 L2 POE",
+        "Device Type": "usw"
+    },
+    {
+        "Device Code": "US48P750",
+        "Device Name": "UniFi Switch 48 POE-750W",
+        "Device Type": "usw"
+    },
+    {
+        "Device Code": "S248500",
+        "Device Name": "UniFi Switch 48 AT-500W",
+        "Device Type": "usw"
+    },
+    {
+        "Device Code": "S248750",
+        "Device Name": "UniFi Switch 48 AT-750W",
+        "Device Type": "usw"
+    },
+    {
+        "Device Code": "US6XG150",
+        "Device Name": "UniFi Switch 6XG POE-150W",
+        "Device Type": "usw"
+    },
+    {
+        "Device Code": "USXG",
+        "Device Name": "UniFi Switch 16XG",
+        "Device Type": "usw"
+    },
+    {
+        "Device Code": "UGW3",
+        "Device Name": "UniFi Security Gateway 3P",
+        "Device Type": "ugw"
+    },
+    {
+        "Device Code": "UGW4",
+        "Device Name": "UniFi Security Gateway 4P",
+        "Device Type": "ugw"
+    },
+    {
+        "Device Code": "UGWHD4",
+        "Device Name": "UniFi Security Gateway HD",
+        "Device Type": "ugw"
+    },
+    {
+        "Device Code": "UGWXG",
+        "Device Name": "UniFi Security Gateway XG-8",
+        "Device Type": "ugw"
+    },
+    {
+        "Device Code": "UP4",
+        "Device Name": "UniFi Phone-X",
+        "Device Type": "uph"
+    },
+    {
+        "Device Code": "UP5",
+        "Device Name": "UniFi Phone",
+        "Device Type": "uph"
+    },
+    {
+        "Device Code": "UP5t",
+        "Device Name": "UniFi Phone-Pro",
+        "Device Type": "uph"
+    },
+    {
+        "Device Code": "UP7",
+        "Device Name": "UniFi Phone-Executive",
+        "Device Type": "uph"
+    },
+    {
+        "Device Code": "UP5c",
+        "Device Name": "UniFi Phone",
+        "Device Type": "uph"
+    },
+    {
+        "Device Code": "UP5tc",
+        "Device Name": "UniFi Phone-Pro",
+        "Device Type": "uph"
+    },
+    {
+        "Device Code": "UP7c",
+        "Device Name": "UniFi Phone-Executive",
+        "Device Type": "uph"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "DPI Category Code": 0,
+        "Name": "Instant messaging"
+    },
+    {
+        "DPI Category Code": 1,
+        "Name": "P2P"
+    },
+    {
+        "DPI Category Code": 3,
+        "Name": "File Transfer"
+    },
+    {
+        "DPI Category Code": 4,
+        "Name": "Streaming Media"
+    },
+    {
+        "DPI Category Code": 5,
+        "Name": "Mail and Collaboration"
+    },
+    {
+        "DPI Category Code": 6,
+        "Name": "Voice over IP"
+    },
+    {
+        "DPI Category Code": 7,
+        "Name": "Database"
+    },
+    {
+        "DPI Category Code": 8,
+        "Name": "Games"
+    },
+    {
+        "DPI Category Code": 9,
+        "Name": "Network Management"
+    },
+    {
+        "DPI Category Code": 10,
+        "Name": "Remote Access Terminals"
+    },
+    {
+        "DPI Category Code": 11,
+        "Name": "Bypass Proxies and Tunnels"
+    },
+    {
+        "DPI Category Code": 12,
+        "Name": "Stock Market"
+    },
+    {
+        "DPI Category Code": 13,
+        "Name": "Web"
+    },
+    {
+        "DPI Category Code": 14,
+        "Name": "Security Update"
+    },
+    {
+        "DPI Category Code": 15,
+        "Name": "Web IM"
+    },
+    {
+        "DPI Category Code": 17,
+        "Name": "Business"
+    },
+    {
+        "DPI Category Code": 18,
+        "Name": "Network Protocols"
+    },
+    {
+        "DPI Category Code": 19,
+        "Name": "Network Protocols"
+    },
+    {
+        "DPI Category Code": 20,
+        "Name": "Network Protocols"
+    },
+    {
+        "DPI Category Code": 23,
+        "Name": "Private Protocol"
+    },
+    {
+        "DPI Category Code": 24,
+        "Name": "Social Network"
+    },
+    {
+        "DPI Category Code": 255,
+        "Name": "Unknown"
+    }
+]
